@@ -3,8 +3,8 @@ Students taking CS102 in Fall2020 that participated in tutorial on Thursday Octo
 `info.txt` file, stage the update, commit with the message:
 `Name_of_the_student updated info.txt` and push back to this repository. 
 
-Example of an entry:  
+## Example of an entry:  
 `Perman Atayev - 21701663 - https://github.com/PermanAtayev`
 
-Submission to Moodle:
+## Submission to Moodle:
 Take a picture of info.txt once it's updated OR of a pull request that's pending and upload it to Moodle
