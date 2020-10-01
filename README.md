@@ -5,3 +5,6 @@ Students taking CS102 in Fall2020 that participated in tutorial on Thursday Octo
 
 Example of an entry:  
 `Perman Atayev - 21701663 - https://github.com/PermanAtayev`
+
+Submission to Moodle:
+Take a picture of info.txt once it's updated OR of a pull request that's pending and upload it to Moodle
